@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "eventName": "NEXT",
+    "ticketsForSale": 250,
+    "username": "haim",
+    "password": "123"
+  }
+]

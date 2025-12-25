@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "haim",
+    "eventName": "NEXT",
+    "ticketsBought": 50
+  },
+  {
+    "username": "haim",
+    "eventName": "sd",
+    "ticketsBought": 50
+  },
+  {
+    "username": "haim",
+    "eventName": "NEXT",
+    "ticketsBought": 50
+  },
+  {
+    "username": "haim",
+    "eventName": "NEXT",
+    "ticketsBought": 50
+  },
+  {
+    "username": "haim",
+    "eventName": "NEXT",
+    "ticketsBought": 5
+  },
+  {
+    "username": "haim",
+    "eventName": "next",
+    "ticketsBought": 50
+  }
+]
