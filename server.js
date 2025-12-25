@@ -24,7 +24,7 @@ async function writeFilet(path, data){
 }
 
 
-app.post("/user/register", async (req, res) => {
+app.post("/users/register", async (req, res) => {
     const body = req.body
     const users = await readFilet(PATHusers)
     const findUser = users.some(u => u.username === body.username)
